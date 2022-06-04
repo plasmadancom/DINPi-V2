@@ -9,8 +9,8 @@
 ## Dimensions
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/plasmadancom/DINPi-V2/main/img/dinpi-v2-v1.0-dimensions.svg">
-        <img alt="Mechanical Drawing" src="/img/dinpi-v2-v1.0-dimensions.svg" width="600">
+    <a href="https://raw.githubusercontent.com/plasmadancom/DINPi-V2/main/img/dinpi-v2.0-dimensions.svg">
+        <img alt="Mechanical Drawing" src="/img/dinpi-v2-v1.0-dimensions.svg" width="500">
     </a>
 </p>
 
